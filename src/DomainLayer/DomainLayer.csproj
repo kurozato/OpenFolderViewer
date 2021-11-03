@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>BlackSugar.Ofv.Service</AssemblyName>
+    <RootNamespace>BlackSugar.Service</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\InfrastructureLayer\InfrastructureLayer.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,7 @@
+src/.vs/*
+src/**/bin/*
+src/**/obj/*
+src/packages/*
+*.user
+dist.bat
+xcopy.exclude
